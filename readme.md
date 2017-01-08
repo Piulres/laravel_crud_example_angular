@@ -41,7 +41,7 @@ php artisan migrate
 
 ----
 ### Demo [Offline]
-http://renan.zz.mu/laravelangular/
+http://renan.zz.mu/laravel_crud_example_angular/
 
 
    [Piulres]: <https://github.com/Piulres/>
